@@ -17,6 +17,8 @@ h1.print_name()
 c1=car('sonata','red',0)
 
 c1.speedUp()
+c1.speedUp()
+c1.speedUp()
 c1.showInfo()
 
 c1.speedDown()
